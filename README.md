@@ -83,9 +83,4 @@ Whether it's a **sleek front-end interface, a robust backend system, or an AI-po
 </div>
 
 ---
-
-<h3>🎬 Fun GIF</h3>
-<img src="https://i.postimg.cc/XNZPqCnn/giphy.gif" width="300" />
-
----
   
